@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "react-native-debugger-open": "^0.4.3"
+  }
+}
